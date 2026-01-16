@@ -44,4 +44,7 @@ O objetivo é **otimizar tarefas repetitivas**, reduzir erros manuais e demonstr
 |------|------|------|----------|----------------|-------|-----|
 | 001 | Nike | Tênis | Esporte | 299.90 | 180.00 | Promoção |
 
+## 📚 Referência de Estudo
+
+Este projeto foi desenvolvido com base em um curso gratuito da plataforma Jornada Python, com adaptações e personalizações realizadas durante o aprendizado.
 ---
